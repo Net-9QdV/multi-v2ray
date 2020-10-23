@@ -62,14 +62,11 @@ V2ray多用户管理脚本，向导式管理[新增|删除|修改]传输协议�
 apt-get update -y && apt-get install curl -y
 ```
 
-
 ## 安装命令
 ```
 
-
 source <(curl -sL https://multi.netlify.app/v2ray.sh) --zh
 ```
-
 
 ## 升级命令(保留配置文件更新)
 ```
